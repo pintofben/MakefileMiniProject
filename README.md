@@ -1,3 +1,4 @@
 # MakefileMiniProject
 ## Scientific Computing
-## Ben Pintof and Ethan Brown
+## Ben Pintof
+#### Collabroated with Ethan Brown
