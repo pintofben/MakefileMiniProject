@@ -6,7 +6,7 @@ if __name__=='__main__':
 	# Creating outFile
 	outFile = open("make1.txt", "w")
 
-	# Importing Packages
+	# Import Packages
 	import numpy as np
 
 	# Creating Variable
